@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void spiral_maker(int nu){
     int x=0, y=-1;  //default => (0,-1) since (0,0) also need to be use
